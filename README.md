@@ -17,7 +17,14 @@
     · <a href="#7-贡献与开发">贡献方式</a>
     · <a href="README_EN.md">English</a>
   </p>
+  <p>
+    <b>Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能</b>
+  </p>
+  <a href="https://natureskills.cn">
+    <img width="2559" height="1527" alt="Nature Skills 网页版预览" src="https://github.com/user-attachments/assets/97017897-0af1-4e86-b843-74e6ce2ad3d3" />
+  </a>
 </div>
+
 
 ---
 
